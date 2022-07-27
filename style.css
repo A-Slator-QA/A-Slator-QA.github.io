@@ -13,7 +13,8 @@ body{
 
 BootHead{
   font-family: PiecesOfEight;
-  size: 0px;
+  font-size: 40pt;
+  text-shadow: 5px, 5px, 5px rgb(0, 255, 21);
   color:coral
 }
 
@@ -88,3 +89,4 @@ Snackheader{
       width: 500px;
       box-shadow: 20px;
     }
+    
